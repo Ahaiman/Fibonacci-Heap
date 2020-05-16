@@ -1,12 +1,4 @@
-/**
- * 205515513
- * אביטל חיימן
- * avitalhaiman
- * 
- * 313307761
- * אור פיקהולץ
- * orpickholz 
- */
+
 
 /**
  * FibonacciHeap
